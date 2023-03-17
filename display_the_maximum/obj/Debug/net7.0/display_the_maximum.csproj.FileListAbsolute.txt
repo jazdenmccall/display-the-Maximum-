@@ -1,0 +1,15 @@
+/Users/jazdenmccall/Projects/display_the_maximum/display_the_maximum/bin/Debug/net7.0/display_the_maximum
+/Users/jazdenmccall/Projects/display_the_maximum/display_the_maximum/bin/Debug/net7.0/display_the_maximum.deps.json
+/Users/jazdenmccall/Projects/display_the_maximum/display_the_maximum/bin/Debug/net7.0/display_the_maximum.runtimeconfig.json
+/Users/jazdenmccall/Projects/display_the_maximum/display_the_maximum/bin/Debug/net7.0/display_the_maximum.dll
+/Users/jazdenmccall/Projects/display_the_maximum/display_the_maximum/bin/Debug/net7.0/display_the_maximum.pdb
+/Users/jazdenmccall/Projects/display_the_maximum/display_the_maximum/obj/Debug/net7.0/display_the_maximum.csproj.AssemblyReference.cache
+/Users/jazdenmccall/Projects/display_the_maximum/display_the_maximum/obj/Debug/net7.0/display_the_maximum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jazdenmccall/Projects/display_the_maximum/display_the_maximum/obj/Debug/net7.0/display_the_maximum.AssemblyInfoInputs.cache
+/Users/jazdenmccall/Projects/display_the_maximum/display_the_maximum/obj/Debug/net7.0/display_the_maximum.AssemblyInfo.cs
+/Users/jazdenmccall/Projects/display_the_maximum/display_the_maximum/obj/Debug/net7.0/display_the_maximum.csproj.CoreCompileInputs.cache
+/Users/jazdenmccall/Projects/display_the_maximum/display_the_maximum/obj/Debug/net7.0/display_the_maximum.dll
+/Users/jazdenmccall/Projects/display_the_maximum/display_the_maximum/obj/Debug/net7.0/refint/display_the_maximum.dll
+/Users/jazdenmccall/Projects/display_the_maximum/display_the_maximum/obj/Debug/net7.0/display_the_maximum.pdb
+/Users/jazdenmccall/Projects/display_the_maximum/display_the_maximum/obj/Debug/net7.0/display_the_maximum.genruntimeconfig.cache
+/Users/jazdenmccall/Projects/display_the_maximum/display_the_maximum/obj/Debug/net7.0/ref/display_the_maximum.dll
